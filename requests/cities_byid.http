@@ -1,0 +1,3 @@
+### Cities byid
+
+GET http://{{host}}/cities/byid?id=8

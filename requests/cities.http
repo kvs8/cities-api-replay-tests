@@ -1,0 +1,3 @@
+### Cities list
+
+GET http://{{host}}/cities
